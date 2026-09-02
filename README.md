@@ -27,7 +27,7 @@ Custom native iOS, Android, and Windows apps; cross-platform responsive web apps
 We help clients exploit new technologies and integrate them with existing applications, streamlining processes and reducing costs through expert project management and application integration.
 
 ### AI / Machine Learning & Data Science
-We build next-generation AI and ML capabilities to help enterprises harness the power of data and intelligent automation. Our growing practice spans custom machine learning pipelines, end-to-end data science workflows, and the design and deployment of autonomous AI agents capable of reasoning and executing complex multi-step tasks. We develop multi-agent orchestration systems for real-world enterprise challenges, and build robust Agent APIs that seamlessly integrate intelligent capabilities into existing software stacks.
+We build AI/ML and Gen AI solutions for enterprises — spanning custom ML pipelines, data science workflows, AI-based automation, autonomous agents, multi-agent orchestration, and Agent APIs that integrate seamlessly into existing software stacks.
 
 ### Offshore Delivery
 A blended on-site, off-site, nearshore, and offshore delivery model that lets clients dynamically tune work distribution to optimise for cost, speed, and risk.
