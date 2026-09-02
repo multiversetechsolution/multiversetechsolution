@@ -1,7 +1,5 @@
 # Multiverse Solutions
 
-> **SharePoint Experts at Work · Now Expanding into AI & Machine Learning**
-
 Multiverse Solutions is a global IT services provider headquartered in New Delhi, India. We deliver Information Technology-driven business solutions that meet the strategic objectives of clients worldwide, specialising in SharePoint, Cloud, Mobile Apps, and Microsoft Technologies — and now rapidly expanding into Artificial Intelligence, Machine Learning, Data Science, and Intelligent Agent development.
 
 ---
